@@ -1,8 +1,0 @@
-#use the python interpreter
-#!/usr/bin/python3
-
-#import the jetson modules
-import jetson_inference
-import jetson_utils
-
-import argparse
